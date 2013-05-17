@@ -36,6 +36,7 @@ enum {
 -(id) init
 {
 	if( (self=[super init])) {
+        NSLog(@"dau-----------------------");
 		
 		// enable events
 		
