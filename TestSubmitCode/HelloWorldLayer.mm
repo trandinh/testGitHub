@@ -38,6 +38,7 @@ enum {
 	if( (self=[super init])) {
         NSLog(@"dau-----------------------");
         NSLog(@"2222222222222222");
+        //new comment
 		
 		// enable events
 		
